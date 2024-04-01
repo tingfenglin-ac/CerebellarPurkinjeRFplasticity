@@ -1,5 +1,5 @@
 # CerebellarPurkinjeRFplasticity
-Souce code for the article titled 
+Souce code for the article titled: 
 ### Intrinsic and synaptic determinants of receptive field plasticity in Purkinje cells of the mouse cerebellum
 
 
